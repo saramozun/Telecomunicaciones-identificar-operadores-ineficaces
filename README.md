@@ -1,21 +1,28 @@
-# Telecomunicaciones-identificar-operadores-ineficaces
-### Elaborado por: Sarah Moscoso
-Análisis de datos sobre operadores ineficientes del sevicio de telefonía virtual CallMeMaybe
+# ☎️Telecomunicaciones-identificar-operadores-ineficaces
 
-## Descripción
+### Elaborado por: Sarah Moscoso💗
+
+## 🧪Descripción:
+Análisis de datos sobre operadores ineficientes del sevicio de telefonía virtual CallMeMaybe.
+
 El servicio de telefonía virtual CallMeMaybe está desarrollando una nueva función que brindará a los supervisores y las supervisores información sobre los operadores menos eficaces. Se considera que un operador es ineficaz si tiene una gran cantidad de llamadas entrantes perdidas (internas y externas) y un tiempo de espera prolongado para las llamadas entrantes. Además, si se supone que un operador debe realizar llamadas salientes, un número reducido de ellas también será un signo de ineficacia.
 
-**Identificar operadores ineficaces**
+**Identificar operadores ineficaces:**
+- tiene una gran cantidad de llamadas entrantes perdidas (internas y externas).
+- tiene un tiempo de espera prolongado para las llamadas entrantes.
+- Además, si se supone que un operador debe realizar llamadas salientes, un número reducido de ellas también será un signo de ineficacia.
 
-tiene una gran cantidad de llamadas entrantes perdidas (internas y externas).
-tiene un tiempo de espera prolongado para las llamadas entrantes.
-Además, si se supone que un operador debe realizar llamadas salientes, un número reducido de ellas también será un signo de ineficacia.
+## 🎯 Objetivo:
+Usar pandas de Python para sasar insights valiosos y poder hallar a los trabajadores con bajo rendimiento para mejorar la optimización del servicio de telefonía.
 
-## Tecnologías usadas
-Python(Pandas)
+## 🛠️ Herramientas utilizadas:
+- Python (pandas)
 
-### Descripción de los datos
+## 📌 Conclusiones:
+Con este proyecto puse en practica mis habilidades para mejorar el rendimiento de una compañía
+- python (pandas)
 
+## 🗂️Descripción de los datos:
 Los datasets contienen información sobre el uso del servicio de telefonía virtual CallMeMaybe. Sus clientes son organizaciones que necesitan distribuir gran cantidad de llamadas entrantes entre varios operadores, o realizar llamadas salientes a través de sus operadores. Los operadores también pueden realizar llamadas internas para comunicarse entre ellos. Estas llamadas se realizan a través de la red de CallMeMaybe.
 
 El dataset comprimido `telecom_dataset_us.csv` contiene las siguientes columnas:
