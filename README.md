@@ -16,11 +16,12 @@ El servicio de telefonía virtual CallMeMaybe está desarrollando una nueva func
 Usar pandas de Python para sasar insights valiosos y poder hallar a los trabajadores con bajo rendimiento para mejorar la optimización del servicio de telefonía.
 
 ## 🛠️ Herramientas utilizadas:
-- Python (pandas)
+- Python (pandas y numpy)
 
 ## 📌 Conclusiones:
 Con este proyecto puse en practica mis habilidades para mejorar el rendimiento de una compañía
-- python (pandas)
+- python (pandas, numpy)
+- Use pruebas A/B para hallar a operadores buenos y malos.
 
 ## 🗂️Descripción de los datos:
 Los datasets contienen información sobre el uso del servicio de telefonía virtual CallMeMaybe. Sus clientes son organizaciones que necesitan distribuir gran cantidad de llamadas entrantes entre varios operadores, o realizar llamadas salientes a través de sus operadores. Los operadores también pueden realizar llamadas internas para comunicarse entre ellos. Estas llamadas se realizan a través de la red de CallMeMaybe.
